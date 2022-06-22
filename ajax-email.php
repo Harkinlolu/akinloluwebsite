@@ -2,7 +2,7 @@
 
 /* SETTINGS */
 $recipient = "your.email@gmail.com";
-$subject = "New Message from Contact Form";
+$subject = "New Message from our Contact Form";
 
 if($_POST){
 
